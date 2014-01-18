@@ -1,0 +1,66 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/fernandodiazgarrido/.emacs.d/" . "personal/")
+ ("/Users/fernandodiazgarrido/Development/web/app/" . "models/")
+ ("/Users/fernandodiazgarrido/Development/web/" . "app/")
+ ("/Users/fernandodiazgarrido/Development/" . "web/")
+ ("/Users/" . "fernandodiazgarrido/")
+ ("/" . "Users/")
+ ("/Users/fernandodiazgarrido/" . "Development/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/fernandodiazgarrido/Development/api_mobile/src/"
+ "/Users/fernandodiazgarrido/Development/web/app/models/"
+ "/Users/fernandodiazgarrido/.emacs.d/personal/"
+ "/Users/fernandodiazgarrido/"
+ "/Users/fernandodiazgarrido/.emacs.d/"
+ "/Users/fernandodiazgarrido/.emacs.d/vendor/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "api.coffee"
+ "constants.coffee"
+ "index.coffee"
+ "banner.rb"
+ "textmate.el"
+ "personal.el"
+ "peepopen.el"
+ ".emacstmp"
+ "init.el"
+ "bet.rb"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/fernandodiazgarrido/Development/api_mobile/src/" (21171 28305 0 0) "utils.coffee" "streams.coffee" "stream_providers/" "pubsub.coffee" "model.coffee" "live.coffee" "index.coffee" "fake_cache.coffee" "constants.coffee" "configuration.coffee" "api.coffee" ".swp" ".model.coffee.swp" "../" "./")
+
+ ("/Users/fernandodiazgarrido/.emacs.d/" (21147 49494 0 0) "vendor/" "var/" "utils/" "themes/" "savefile/" "sample/" "README.md" "projectile-bookmarks.eld" "prelude-modules.el~" "prelude-modules.el" "personal/" "modules/" "init.el" "elpa/" "core/" "CONTRIBUTING.md" "auto-save-list/" ".projectile" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/fernandodiazgarrido/.emacs.d/personal/" (21147 49528 0 0) "textmate.el" "personal.el" "peepopen.el" ".gitkeep" "../" "./")
+
+ ("/Users/fernandodiazgarrido/" (21147 48786 0 0) "XAuth.request" "VirtualBox VMs/" "Vagrantfile" "tmp/" "shared/" "puntos.docx" "Public/" "planDeContingencias.docx" "pl.ini" "Pictures/" "pgadmin.log" "OneTouchProductionApp.certSigningRequest" "OneTouchAppProduction.cer" "Nov+29%2C+2011+11%3A01%3A22+AM.jpg" "Music/" "Movies/" "macports/" "live_sports.2" "live_sports.1" "live_sports" "Library/" "fish_prompt_git.fish" "fdiaz.pem" "emacs.d.backup/" "Dropbox/" "Downloads/" "Documents/" "Development/" "Desktop/" "Calibre Library/" "Applications/" "20011-12_GABD_Junio_Enunciado.pdf" ".zshenv" ".zprofile" ".Xauthority" ".wireshark-etc/" ".wireshark/" ".wine/" ".viminfo" ".vim/" ".vagrant.d.back/" ".vagrant.d/" ".vagrant.back" ".Trash/" ".subversion/" ".ssh/" ".rvm/" ".rnd" ".local/" ".irb_history" ".ido.last" ".gitconfig" ".gem/" ".fontconfig/" ".erc/" ".emacstmp" ".emacs.d/" ".DS_Store" ".dropbox/" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" ".bundler/" ".bashrc" ".bash_profile" ".bash_history" "../" "./")
+
+ ("/Users/fernandodiazgarrido/.emacs.d/vendor/" (21147 46038 0 0) "textmate.el" "peepopen.el" ".gitkeep" "../" "./")
+
+ ("/Users/fernandodiazgarrido/Development/web/app/models/" (21147 44854 0 0) "withdrawal.rb" "sport.rb" "snippet.rb" "site_translation.rb" "site.rb" "preference.rb" "page_banner.rb" "page.rb" "message_translation.rb" "message.rb" "meeting.rb" "locale.rb" "live_sport.rb" "in_running_ordering.rb" "in_running.rb" "games/" "game_instance.rb" "game_banner.rb" "game.rb" "front_page_item.rb" "extensions/" "event_path_banner.rb" "event.rb" "email_template.rb" "domain.rb" "deposit.rb" "credit_card.rb" "coupon_banner.rb" "coupon.rb" "cashier.rb" "betslip_builder_banner.rb" "betslip.rb" "bet.rb" "banner.rb" "../" "./")
+
+ ("/Users/fernandodiazgarrido/Development/web/app/" (20856 6713 0 0) "views/" "scss/" "presenters/" "models/" "mailers/" "helpers/" "controllers/" "assets/" "../" "./")
+
+ ("/Users/fernandodiazgarrido/Development/web/" (21147 40362 0 0) "vendor/" "TODO" "test/" "spec/" "script/" "README" "Rakefile" "public/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "doc/" "db/" "config.ru" "config/" "app/" ".rspec" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/fernandodiazgarrido/Development/NFC_Shield_DEV/" (21024 59099 0 0) "SNEP.h" "SNEP.cpp" "README.md" "PN532.h" "PN532.cpp" "NfcTag.h" "NfcTag.cpp" "NFCReader.h" "NFCLinkLayer.h" "NFCLinkLayer.cpp" "NdefRecord.h" "NdefRecord.cpp" "NdefMessage.h" "NdefMessage.cpp" "Ndef.h" "Ndef.cpp" "license.txt" "keywords.txt" "example/" "Due.h" "debug.h" ".git/" "../" "./")
+
+ ("/Users/fernandodiazgarrido/Development/" (21126 1207 0 0) "wjam/" "web/" "tt/" "test/" "ss.rb" "prime_table/" "practica2/" "prac4/" "patch.path" "node-jscoverage/" "NFC_Shield_DEV/" "myapp/" "marionette-coffe-node-boilerplate/" "manderley_cast/" "ironhack_prep_box/" "ironhack/" "iron/" "interview/" "ininyc/" "index.html" "cms/" "appfab/" "api_mobile/" "agp-json/" ".DS_Store" "../" "./")
+
+ ("/Users/" (21094 58407 0 0) "Shared/" "fernandodiazgarrido/" ".localized" "../" "./")
+
+ ("/usr/" (21110 13010 0 0) "X11R6/" "X11/" "standalone/" "share/" "sbin/" "local/" "libexec/" "lib/" "include/" "bin/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
